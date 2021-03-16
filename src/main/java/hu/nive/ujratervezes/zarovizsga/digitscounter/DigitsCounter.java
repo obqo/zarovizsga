@@ -1,7 +1,6 @@
 package hu.nive.ujratervezes.zarovizsga.digitscounter;
 
 import java.util.Set;
-
 import java.util.TreeSet;
 
 public class DigitsCounter {
